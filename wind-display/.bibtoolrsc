@@ -1,0 +1,6 @@
+preserve.keys = on
+preserve.key.case = on
+print.comma.at.end = on
+print.indent = 2
+print.line.length = 300
+print.use.tab = off
